@@ -1,0 +1,9 @@
+Schema: olm.semver
+GenerateMajorChannels: true
+GenerateMinorChannels: true
+Candidate:
+  Bundles:
+  - Image: registry.connect.stage.redhat.com/jinhli-test/jinhli-sep:1.0.1
+Stable:
+  Bundles:
+  - Image: registry.connect.stage.redhat.com/jinhli-test/jinhli-sep:1.0.1
